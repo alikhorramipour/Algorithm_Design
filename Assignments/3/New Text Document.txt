@@ -1,0 +1,24 @@
+1 == soaal e tah e jalase 99/2/22{
+	
+
+	instructor's manual: 252/499
+
+	https://walkccc.github.io/CLRS/Chap15/15.5/
+	https://github.com/gzc/CLRS/blob/master/C15-Dynamic-Programming/15.5.md
+
+
+	https://www.youtube.com/watch?v=hgA4xxlVvfQ
+	https://www.youtube.com/watch?v=vLS-zRCHo-Y
+}
+
+
+
+
+
+2 == 9.3-8{
+	
+	instructor's manual: 154/499
+
+	https://walkccc.github.io/CLRS/Chap09/9.3/
+	https://github.com/gzc/CLRS/blob/master/C09-Medians-and-Order-Statistics/9.3.md
+}
